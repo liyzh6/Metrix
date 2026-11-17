@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local datasets and training artifacts
+datasets/
+data/raw/
+results/runs*/
+results/features/
+results/figures/
+metrix/
+*.pt
+*.pth
+*.ckpt
+*.mat
+*.log
+
+# Local experiment summaries may contain absolute machine paths.
+results/summary_*/
+
+# Generated aggregate files
+results/All-Runs.csv
+results/Task-Summary.csv
+results/Dataset-Summary.csv

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated Metrix paper."
+title: "Metrix: Multi-source Dirichlet Mixup with Compactness-Separation Metric Learning"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Yizhi"
+repository-code: "https://github.com/liyzh6/Metrix"
+license: MIT
+date-released: 2026-11-17
+version: 1.0.0
